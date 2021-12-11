@@ -1,0 +1,3 @@
+graft monster-battle-engine/data
+graft docs
+recursive-include tests *.py
